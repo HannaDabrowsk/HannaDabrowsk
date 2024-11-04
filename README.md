@@ -1,5 +1,6 @@
 ## Hi there 👋
-🌱 I’m currently learning programing skills at Lodz University of Technology
+🌱 I’m currently working on my programming skills at Lodz University of Technology
+🥰🥰🥰
 <!--
 **HannaDabrowsk/HannaDabrowsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
